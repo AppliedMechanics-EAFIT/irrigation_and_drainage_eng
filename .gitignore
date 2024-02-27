@@ -6,5 +6,6 @@ notebooks/raw.githubusercontent.com
 
 notebooks/tests
 notebooks/input_data
+notebooks/output_data
 
 .gitignore
