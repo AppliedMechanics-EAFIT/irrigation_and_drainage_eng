@@ -4,8 +4,7 @@ Teaching tools for the irrigation and drainage engineering class at EAFIT Univer
 
 ## Contents
 
-
-
+1. [Rainfall record processing and visualization](./notebooks/rainfall_record_processing.ipynb)
 
 ## License
 
