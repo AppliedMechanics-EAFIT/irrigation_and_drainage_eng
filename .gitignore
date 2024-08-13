@@ -9,3 +9,5 @@ notebooks/input_data
 notebooks/output_data
 
 .gitignore
+Guía QGis.pptx
+test.ipynb
