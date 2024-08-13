@@ -6,7 +6,7 @@ Teaching tools for the irrigation and drainage engineering class at EAFIT Univer
 
 1. [Rainfall record processing and visualization](https://nbviewer.org/github/AppliedMechanics-EAFIT/irrigation_and_drainage_eng/blob/main/notebooks/rainfall_record_processing.ipynb) 
 
-1. [Rainfall record processing and visualization](https://nbviewer.org/github/AppliedMechanics-EAFIT/irrigation_and_drainage_eng/blob/main/notebooks/guia_qgis.ipynb) 
+1. [QGis guide (in spanish)](https://nbviewer.org/github/AppliedMechanics-EAFIT/irrigation_and_drainage_eng/blob/main/notebooks/guia_qgis.ipynb) 
 
 
 ## License
